@@ -43,36 +43,49 @@ Currently: **🎯 Focusing.**
 
 </div>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-**[warty.nvim](https://github.com/itsfoss/warty.nvim)**
-A sleek, modern Neovim colorscheme based on Ubuntu's terminal color schemes.
-`Lua` ⭐ 3
+🪻 **[warty.nvim](https://github.com/itsfoss/warty.nvim)**
+
+<sub>A sleek, modern Neovim colorscheme based on Ubuntu's terminal color schemes.</sub>
+
+<img src="https://img.shields.io/badge/Lua-E3D3FA?style=flat-square&logo=lua&logoColor=6B4E8E&labelColor=E3D3FA"/>
+<img src="https://img.shields.io/badge/⭐-3-F7C6D9?style=flat-square&labelColor=F7C6D9&color=F7C6D9"/>
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-**[text-script-files](https://github.com/itsfoss/text-script-files)**
-Sample text/script files used in It's FOSS & Linux Handbook tutorials.
-`CSS` ⭐ 83 🍴 49
+🌸 **[text-script-files](https://github.com/itsfoss/text-script-files)**
+
+<sub>Sample text/script files used in It's FOSS & Linux Handbook tutorials.</sub>
+
+<img src="https://img.shields.io/badge/CSS-C9E4FF?style=flat-square&logo=css3&logoColor=3B5C82&labelColor=C9E4FF"/>
+<img src="https://img.shields.io/badge/⭐-83-F7C6D9?style=flat-square&labelColor=F7C6D9&color=F7C6D9"/>
+<img src="https://img.shields.io/badge/🍴-49-FFF0C9?style=flat-square&labelColor=FFF0C9&color=FFF0C9"/>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-**[TermRecorder](https://github.com/MEHighKing/TermRecorder)**
-A helper script to create terminal recordings.
-`Shell` 🍴 1
+🎀 **[TermRecorder](https://github.com/MEHighKing/TermRecorder)**
+
+<sub>A helper script to create terminal recordings.</sub>
+
+<img src="https://img.shields.io/badge/Shell-CDE7DD?style=flat-square&logo=gnubash&logoColor=3E6B54&labelColor=CDE7DD"/>
+<img src="https://img.shields.io/badge/🍴-1-FFF0C9?style=flat-square&labelColor=FFF0C9&color=FFF0C9"/>
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-**[christmastree](https://github.com/MEHighKing/christmastree)**
-An animated Christmas tree, straight from the terminal.
-`Python` ⭐ 6
+🎄 **[christmastree](https://github.com/MEHighKing/christmastree)**
+
+<sub>An animated Christmas tree, straight from the terminal.</sub>
+
+<img src="https://img.shields.io/badge/Python-D9C9F5?style=flat-square&logo=python&logoColor=6B4E8E&labelColor=D9C9F5"/>
+<img src="https://img.shields.io/badge/⭐-6-F7C6D9?style=flat-square&labelColor=F7C6D9&color=F7C6D9"/>
 
 </td>
 </tr>
@@ -84,9 +97,9 @@ An animated Christmas tree, straight from the terminal.
 
 ### 🏆 Achievements
 
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" alt="Pull Shark"/>
-
-**Pull Shark**
+🦈 **Pull Shark**
+<br/>
+<sub>Merged pull requests that added meaningful changes to a project</sub>
 
 </div>
 
@@ -96,22 +109,12 @@ An animated Christmas tree, straight from the terminal.
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=MEHighKing&show_icons=true&hide_border=true&title_color=B085C9&icon_color=E8A6C4&text_color=6B4E8E&bg_color=F8EFFA&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MEHighKing&hide_border=true&background=F8EFFA&ring=E8A6C4&fire=D9A9C4&currStreakLabel=6B4E8E&sideLabels=6B4E8E&currStreakNum=6B4E8E&sideNums=6B4E8E&dates=B085C9" alt="GitHub streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEHighKing&layout=compact&hide_border=true&title_color=B085C9&text_color=6B4E8E&bg_color=F8EFFA&langs_count=8" alt="Top languages" height="165"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=MEHighKing&show_icons=true&hide_border=true&title_color=B085C9&icon_color=E8A6C4&text_color=6B4E8E&bg_color=F8EFFA&count_private=true&card_width=680" alt="GitHub stats" width="85%"/>
 
 <br/>
 
-<div align="center">
-
-### 🐍 Contribution snake
-
-<img src="https://raw.githubusercontent.com/MEHighKing/MEHighKing/output/pastel-snake.svg" alt="pastel contribution snake"/>
-
-<sub>↑ set up via the <a href="https://github.com/Platane/snk">snk GitHub Action</a> — see setup note below</sub>
+<img src="https://streak-stats.demolab.com/?user=MEHighKing&hide_border=true&background=F8EFFA&ring=E8A6C4&fire=D9A9C4&currStreakLabel=6B4E8E&sideLabels=6B4E8E&currStreakNum=6B4E8E&sideNums=6B4E8E&dates=B085C9" alt="GitHub streak" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEHighKing&layout=compact&hide_border=true&title_color=B085C9&text_color=6B4E8E&bg_color=F8EFFA&langs_count=8" alt="Top languages" width="42%"/>
 
 </div>
 
@@ -122,11 +125,11 @@ An animated Christmas tree, straight from the terminal.
 ### ✉️ Say hi
 
 <a href="https://github.com/MEHighKing">
-  <img src="https://img.shields.io/badge/GitHub-Follow-B085C9?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow%20MEHighKing-B085C9?style=for-the-badge&logo=github&logoColor=FDF6FB&labelColor=6B4E8E" alt="Follow"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=MEHighKing&color=e8a6c4&style=flat&label=Profile+views" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=MEHighKing&color=e8a6c4&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
