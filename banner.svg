@@ -22,10 +22,6 @@
       <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.55"/>
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
     </radialGradient>
-
-    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="1.2"/>
-    </filter>
   </defs>
 
   <rect width="1200" height="260" rx="28" fill="url(#bgGrad)"/>
@@ -78,24 +74,22 @@
     </path>
   </g>
 
-  <!-- title: typewriter reveal via clip-path animation -->
-  <clipPath id="reveal">
-    <rect x="0" y="0" height="140" width="0">
-      <animate attributeName="width" from="0" to="760" dur="2.4s" fill="freeze"/>
-    </rect>
-  </clipPath>
+  <!-- title: reliable fade + rise in, no clipping so nothing gets cut off -->
+  <g>
+    <text x="140" y="150" font-family="Segoe UI, Verdana, sans-serif" font-size="50" font-weight="700" fill="#6B4E8E" opacity="0">
+      FrozenPhoenix // MEHighKing
+      <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="1.2s" fill="freeze"/>
+      <animate attributeName="y" from="168" to="150" begin="0.2s" dur="1.2s" fill="freeze"/>
+    </text>
+  </g>
 
-  <text x="140" y="140" font-family="Segoe UI, Verdana, sans-serif" font-size="54" font-weight="700" fill="#6B4E8E" clip-path="url(#reveal)">
-    FrozenPhoenix // MEHighKing
-  </text>
-
-  <text x="142" y="180" font-family="Segoe UI, Verdana, sans-serif" font-size="22" fill="#8C6FB0" opacity="0">
+  <text x="142" y="188" font-family="Segoe UI, Verdana, sans-serif" font-size="20" fill="#8C6FB0" opacity="0">
     Linux tinkerer &#183; fantasy reader &#183; football &#183; Clash of Clans
-    <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="1.2s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="1s" fill="freeze"/>
   </text>
 
   <!-- underline draw-on -->
-  <line x1="142" y1="192" x2="142" y2="192" stroke="#D9A9C4" stroke-width="3" stroke-linecap="round">
-    <animate attributeName="x2" from="142" to="640" begin="2.3s" dur="1s" fill="freeze"/>
+  <line x1="142" y1="200" x2="142" y2="200" stroke="#D9A9C4" stroke-width="3" stroke-linecap="round">
+    <animate attributeName="x2" from="142" to="640" begin="1.5s" dur="1s" fill="freeze"/>
   </line>
 </svg>
